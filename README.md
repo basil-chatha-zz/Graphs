@@ -1,1 +1,5 @@
-# Homework 6 - Graphs
+# Graphs
+* Featured Concepts:
+  * Graph Search
+  * Recursion/Backtracking
+  * Templated d-ary heap
